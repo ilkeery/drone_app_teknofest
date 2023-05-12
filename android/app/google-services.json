@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712505957682",
+    "project_id": "firnaspace-f46a5",
+    "storage_bucket": "firnaspace-f46a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712505957682:android:a003a0596a760038180b2b",
+        "android_client_info": {
+          "package_name": "com.firnaspace.uav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712505957682-uqkovvg5nugs6v9dtnubl02lp58qv4fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firnaspace.uav",
+            "certificate_hash": "0950b9523790df9d4f6e49193c47f84d5f903163"
+          }
+        },
+        {
+          "client_id": "712505957682-m7v7vks81t17skvuijlrolro2md846gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiVTrzqqBiq9jBEeQj98mI6awNNjtsNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712505957682-m7v7vks81t17skvuijlrolro2md846gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
