@@ -11,4 +11,7 @@ This app has:
 3- 3DModel and lots of other things..
 
 [droneapp.webm](https://github.com/shawnvodjne/firna_flutter/assets/110738491/c9542ff1-f574-4581-9cb1-0fa574de43df)
+
+
+
 *** YOU NEED TO ADD YOUR OWN android DIRECTORY TO RUN THE APP.
