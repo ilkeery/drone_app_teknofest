@@ -10,7 +10,7 @@ This app has:
 2- Firebase connection
 3- 3DModel and lots of other things..
 
-[droneapp.webm](https://github.com/shawnvodjne/firna_flutter/assets/110738491/c9542ff1-f574-4581-9cb1-0fa574de43df)
+[droneapp.webm](https://github.com/shawnvodjne/drone_app_teknofest/assets/110738491/0a7e1c99-8948-415c-b291-57cef1d4b666)
 
 
 *** YOU NEED TO ADD YOUR OWN android DIRECTORY TO RUN THE APP.
