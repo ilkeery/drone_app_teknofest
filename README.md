@@ -1,16 +1,11 @@
-# deneme
+# It's an older version of the drone app that i coded for #TEKNOFEST.
+I have lost the last version of it, so it needs lots of optimazation.
+But i believe it will be very useful for people. 
+1. Connect firebase to repo not all pages.
+2. Use getter setter to reach the data.
+3. ...
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app has:
+1- Flutter Map with NO Google API totally free map that using openstreetmap
+2- Firebase connection
+3- 3DModel and lots of other things..
